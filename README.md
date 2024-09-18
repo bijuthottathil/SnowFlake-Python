@@ -1,8 +1,7 @@
-# SnowFlake-Python
-Basic example to browse table data using python and adding new column, then add transformed table to DB back
+# Basic example to browse table data using python , adding new column, then add transformed table to back to  DB using Python
 
 
-Simple example to create dataframe using pandas and displaying
+First part is a simple example to create dataframe using pandas and displaying
 
 ![image](https://github.com/user-attachments/assets/26325107-029f-434e-9733-56db70661ffc)
 
